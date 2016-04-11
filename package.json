@@ -1,0 +1,16 @@
+{
+  "name": "CIM2",
+  "version": "1.0.0",
+  "author": {
+    "name": "amer",
+    "email": "amer@gmail.com"
+  },
+  "description": "CIM",
+  "dependencies": {
+    "allcountjs": "^1.14.5"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/allcountjs --app app-config"
+  },
+  "allcountjsTemplate": "cusdev-crm"
+}
